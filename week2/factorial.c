@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//factorial of a number
 int fact(int n)
 {
     if(n>=1)

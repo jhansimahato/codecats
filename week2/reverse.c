@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+void main()
 {
 	int n,r,temp,rev=0;
 	printf("enter a number: ");

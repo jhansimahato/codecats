@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//sum of natural numbers
 void main(void)
 {
     int n,i,sum=0;

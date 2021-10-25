@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//power of number
 void main(void)
 {
     int num,pow,temp,i;

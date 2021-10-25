@@ -1,4 +1,5 @@
 #include<stdio.h>
+//armstrong of a number
 void main()
 {
 	int n,i,sum=0,r,temp;
